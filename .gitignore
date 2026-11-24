@@ -1,0 +1,11 @@
+node_modules/
+dist/
+.env
+.env.*
+!.env.example
+*.log
+~$*
+
+# assessment documents (confidential, do not publish)
+*.pdf
+*.docx
